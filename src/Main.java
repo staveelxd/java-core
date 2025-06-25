@@ -1,3 +1,5 @@
+import Algorithms.SortAlgorithms;
+
 import java.util.*;
 
 public class Main {
@@ -25,6 +27,8 @@ public class Main {
 //        Structures.Queues.ArrayBlockingQueueExample();
 //        Structures.Queues.FIFODequeExample();
 //        Structures.Maps.HashMapExample();
-
+        int[] arr = {1, 54, -8, 0, 71, 12, 7, 6, 12, -3, 72};
+        SortAlgorithms.quickSort(arr, 0, arr.length - 1);
+        System.out.println(Arrays.toString(arr));
     }
 }
