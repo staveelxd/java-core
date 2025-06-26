@@ -5,10 +5,10 @@ package Algorithms;
 // Valid Perfect Square ✅
 // Search Insert Position ✅
 // Sqrt(x) ✅
-// Search in Rotated Sorted Array
-// Peak Index in a Mountain Array
-// Find First and Last Position of Element
-// Search a 2D Matrix I/II
+// Search in Rotated Sorted Array ✅
+// Peak Index in a Mountain Array ✅
+// Find First and Last Position of Element ✅
+// Search a 2D Matrix I/II ✅✅
 public class BinarySearchAlgorithms {
     public static int binarySearch(int[] arr, int target) {
         int left = 0, right = arr.length - 1;

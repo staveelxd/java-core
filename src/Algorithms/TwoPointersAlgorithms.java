@@ -11,12 +11,12 @@ import static java.lang.Math.abs;
 // Merge Sorted Array ✅
 // Intersection of Two Arrays ✅
 // Intersection of Two Arrays II ✅
-// Two SUM II
+// Two SUM II ✅
 // 3Sum
 // 4Sum
-// Sort Colors
-// Move Zeroes
-// Partition Labels
+// Sort Colors ✅
+// Move Zeroes ✅
+// Partition Labels ✅
 
 public class TwoPointersAlgorithms {
 
